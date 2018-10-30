@@ -86,7 +86,7 @@ nav.navbar {
 }
 .btn-primary{
   color:#fff;
-  background-color: #f8512f;
+  background-color: #030407;
   border-color: transparent;
 }
 .btn-primary:hover{
@@ -103,6 +103,17 @@ nav.navbar {
   font-size: 50px;
   font-family: 'Open Sans Condensed', sans-serif;
 }
+.petstore h3 p{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 32px;
+  color:#030407;
+}
+.restaurant h3 p{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 32px;
+  color:#030407;
+}
+
 .contact-form{
   background-color: #6284bc;
   color:#fff;
@@ -136,6 +147,7 @@ br{
   color:#6284bc;
   font-size: 16px;
 }
+
 
 
 /*start of
